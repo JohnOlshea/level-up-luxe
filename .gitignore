@@ -75,6 +75,7 @@ web_modules/
 .env
 .env.test
 .env.dev
+.env.e2e
 .env.production
 
 # parcel-bundler cache (https://parceljs.org/)
@@ -112,6 +113,7 @@ dist
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
+.vscode
 
 # yarn v2
 .yarn/cache
